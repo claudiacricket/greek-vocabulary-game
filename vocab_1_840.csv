@@ -1,0 +1,841 @@
+number,greek,english,image
+1,Να!,Look! / Here!,assets/1.png
+2,Γεια σου!,Hello! (informal),assets/2.png
+3,Γεια σας!,Hello! (formal/plural),assets/3.png
+4,"Γεια σας, κυρία!","Hello, ma'am!",assets/4.png
+5,"Γεια σας, κύριε!","Hello, sir!",assets/5.png
+6,Καλημέρα!,Good morning!,assets/6.png
+7,Καληνύχτα!,Good night!,assets/7.png
+8,Τι κάνεις;,How are you?,assets/8.png
+9,Καλά!,Good! / Well!,assets/9.png
+10,Πώς σε λένε;,What is your name?,assets/10.png
+11,Με λένε...,My name is...,assets/11.png
+12,Εγώ είμαι,I am,assets/12.png
+13,Εμείς είμαστε,We are,assets/13.png
+14,Εσύ είσαι,You are (singular),assets/14.png
+15,Εσείς είστε,You are (plural/formal),assets/15.png
+16,Εσείς είστε η κυρία...,You are Mrs./Ms....,assets/16.png
+17,Αυτός είναι,He is,assets/17.png
+18,Αυτοί είναι,They are (masculine/mixed),assets/18.png
+19,Αυτή είναι,She is,assets/19.png
+20,Αυτές είναι,They are (feminine),assets/20.png
+21,Αυτό είναι,It is,assets/21.png
+22,Αυτά είναι,They are (neuter),assets/22.png
+23,Nαι!,Yes!,assets/23.png
+24,Όχι!,No!,assets/24.png
+25,o πρίγκιπας,the prince,assets/25.png
+26,ο βάτραχος,the frog,assets/26.png
+27,η μαμά,the mom,assets/27.png
+28,το παιδί,the child,assets/28.png
+29,το αγόρι,the boy,assets/29.png
+30,το κορίτσι,the girl,assets/30.png
+31,Από πού είσαι;,Where are you from?,assets/31.png
+32,Eίμαι από τον Καναδά,I am from Canada,assets/32.png
+33,Eίμαι από την Ελλάδα,I am from Greece,assets/33.png
+34,Είμαι από το Μαϊάμι,I am from Miami,assets/34.png
+35,το όνομα,the first name,assets/35.png
+36,το επώνυμο,the last name,assets/36.png
+37,η ηλικία,the age,assets/37.png
+38,η διεύθυνση,the address,assets/38.png
+39,ο αριθμός,the number,assets/39.png
+40,η πόλη,the city,assets/40.png
+41,το τηλέφωνο,the telephone,assets/41.png
+42,Πού μένεις;,Where do you live?,assets/42.png
+43,Μένω στον Καναδά,I live in Canada,assets/43.png
+44,Μένω στην Ελλάδα,I live in Greece,assets/44.png
+45,Μένω στο Μαϊάμι,I live in Miami,assets/45.png
+46,Εγώ μένω στο Μαϊάμι,I live in Miami,assets/46.png
+47,Εμείς μένουμε στο Μαϊάμι,We live in Miami,assets/47.png
+48,Εσύ μένεις στο Μαϊάμι,You live in Miami (singular),assets/48.png
+49,Εσείς μένετε στο Μαϊάμι,You live in Miami (plural/formal),assets/49.png
+50,Αυτός μένει στο Μαϊάμι,He lives in Miami,assets/50.png
+51,Αυτοί μένουν στο Μαϊάμι,They live in Miami (masculine/mixed),assets/51.png
+52,Αυτή μένει στο Μαϊάμι,She lives in Miami,assets/52.png
+53,Αυτές μένουν στο Μαϊάμι,They live in Miami (feminine),assets/53.png
+54,Αυτό μένει στο Μαϊάμι,It lives in Miami,assets/54.png
+55,Αυτά μένουν στο Μαϊάμι,They live in Miami (neuter),assets/55.png
+56,Πόσων χρονών είσαι;,How old are you?,assets/56.png
+57,Είμαι 7 χρονών!,I am 7 years old!,assets/57.png
+58,Πόσα είναι;,How many are there?,assets/58.png
+59,"1,2,3,4,5,6,7,8,9,10","1,2,3,4,5,6,7,8,9,10",assets/59.png
+60,Πόσο κάνει 8+2;,How much is 8+2?,assets/60.png
+61,Πόσο κάνει 8-2;,How much is 8-2?,assets/61.png
+62,διαβάζω,I read,assets/62.png
+63,φωνάζω,I shout,assets/63.png
+64,παίζω,I play,assets/64.png
+65,η Ελλάδα,Greece,assets/65.png
+66,ο Έλληνας,the Greek man/boy,assets/66.png
+67,Η Ελληνίδα,the Greek woman/girl,assets/67.png
+68,τα ελληνικά,Greek (the language),assets/68.png
+69,η Αθήνα,Athens,assets/69.png
+70,η Αμερική,America,assets/70.png
+71,ο Αμερικανός,the American man/boy,assets/71.png
+72,η Αμερικανίδα,the American woman/girl,assets/72.png
+73,τα αγγλικά,English (the language),assets/73.png
+74,η Ουάσιγκτον,Washington,assets/74.png
+75,η Ισπανία,Spain,assets/75.png
+76,ο Ισπανός,the Spanish man/boy,assets/76.png
+77,η Ισπανίδα,the Spanish woman/girl,assets/77.png
+78,τα ισπανικά,Spanish (the language),assets/78.png
+79,η Μαδρίτη,Madrid,assets/79.png
+80,η Ιταλία,Italy,assets/80.png
+81,ο Ιταλός,the Italian man/boy,assets/81.png
+82,η Ιταλίδα,the Italian woman/girl,assets/82.png
+83,τα ιταλικά,Italian (the language),assets/83.png
+84,η Ρώμη,Rome,assets/84.png
+85,η Ρωσία,Russia,assets/85.png
+86,ο Ρώσος,the Russian man/boy,assets/86.png
+87,η Ρωσίδα,the Russian woman/girl,assets/87.png
+88,τα ρωσικά,Russian (the language),assets/88.png
+89,η Μόσχα,Moscow,assets/89.png
+90,η Αγγλία,England,assets/90.png
+91,ο Άγγλος,the English man/boy,assets/91.png
+92,η Αγγλίδα,the English woman/girl,assets/92.png
+93,η Γαλλία,France,assets/93.png
+94,ο Γάλλος,the French man/boy,assets/94.png
+95,η Γαλλίδα,the French woman/girl,assets/95.png
+96,τα γαλλικά,French (the language),assets/96.png
+97,το Παρίσι,Paris,assets/97.png
+98,ο Καναδάς,Canada,assets/98.png
+99,ο Καναδός,the Canadian man/boy,assets/99.png
+100,η Καναδή,the Canadian woman/girl,assets/100.png
+101,η Γερμανία,Germany,assets/101.png
+102,ο Γερμανός,the German man/boy,assets/102.png
+103,η Γερμανίδα,the German woman/girl,assets/103.png
+104,τα γερμανικά,German (the language),assets/104.png
+105,η Ολλανδία,the Netherlands,assets/105.png
+106,ο Ολλανδός,the Dutch man/boy,assets/106.png
+107,η Ολλανδέζα,the Dutch woman/girl,assets/107.png
+108,τα ολλανδικά,Dutch (the language),assets/108.png
+109,η Αυστραλία,Australia,assets/109.png
+110,ο Αυστραλός,the Australian man/boy,assets/110.png
+111,η Αυστραλέζα,the Australian woman/girl,assets/111.png
+112,η Κίνα,China,assets/112.png
+113,ο Κινέζος,the Chinese man/boy,assets/113.png
+114,η Κινέζα,the Chinese woman/girl,assets/114.png
+115,τα κινέζικα,Chinese (the language),assets/115.png
+116,το Πεκίνο,Beijing,assets/116.png
+117,η Ιαπωνία,Japan,assets/117.png
+118,ο Γιαπωνέζος,the Japanese man/boy,assets/118.png
+119,η Γιαπωνέζα,the Japanese woman/girl,assets/119.png
+120,τα γιαπωνέζικα,Japanese (the language),assets/120.png
+121,η καταγωγή,origin / background,assets/121.png
+122,η γλώσσα,the language,assets/122.png
+123,μιλάω/μιλώ,I speak,assets/123.png
+124,συζητάω/συζητώ,I discuss / talk,assets/124.png
+125,χαιρετάω/χαιρετώ,I greet,assets/125.png
+126,γελάω/γελώ,I laugh,assets/126.png
+127,αγαπάω/αγαπώ,I love,assets/127.png
+128,τραγουδάω/τραγουδώ,I sing,assets/128.png
+129,κελαηδάω/κελαηδώ,I chirp / sing (bird),assets/129.png
+130,το σχολείο,the school,assets/130.png
+131,το Δημοτικό (σχολείο),elementary school,assets/131.png
+132,η τάξη,the class / classroom,assets/132.png
+133,η Δευτέρα (2 α) Δημοτικού,second grade,assets/133.png
+134,ο δάσκαλος-ο κύριος,the male teacher / sir,assets/134.png
+135,η δασκάλα-η κυρία,the female teacher / ma'am,assets/135.png
+136,ο μαθητής,the male student,assets/136.png
+137,η μαθήτρια,the female student,assets/137.png
+138,το μάθημα,the lesson / subject,assets/138.png
+139,ο φίλος,the male friend,assets/139.png
+140,η φίλη,the female friend,assets/140.png
+141,ο πίνακας,the board,assets/141.png
+142,ο μαρκαδόρος,the marker,assets/142.png
+143,ο χάρτης,the map,assets/143.png
+144,ο τοίχος,the wall,assets/144.png
+145,το θρανίο,the desk,assets/145.png
+146,το πράσινο χρώμα,the color green,assets/146.png
+147,το θαλασσί χρώμα,the light blue color,assets/147.png
+148,πηγαίνω στο σχολείο,I go to school,assets/148.png
+149,βλέπω στον πίνακα,I look at the board,assets/149.png
+150,κάνω ησυχία,I am quiet,assets/150.png
+151,μαλώνω,I argue / scold,assets/151.png
+152,γράφω,I write,assets/152.png
+153,ακούω,I listen,assets/153.png
+154,έχω,I have,assets/154.png
+155,το σχολείο αρχίζει,school starts,assets/155.png
+156,ο χάρακας,the ruler,assets/156.png
+157,ο υπολογιστής,the computer,assets/157.png
+158,η τσάντα,the schoolbag / bag,assets/158.png
+159,η κασετίνα,the pencil case,assets/159.png
+160,η σβήστρα,the eraser,assets/160.png
+161,η ξύστρα,the pencil sharpener,assets/161.png
+162,η κόλλα,the glue,assets/162.png
+163,η αφίσα,the poster,assets/163.png
+164,η κρεμάστρα,the coat rack / hanger,assets/164.png
+165,η κιθάρα,the guitar,assets/165.png
+166,η κουρτίνα,the curtain,assets/166.png
+167,η καρέκλα,the chair,assets/167.png
+168,η βιβλιοθήκη,the bookcase / library,assets/168.png
+169,οι μπογιές,the crayons / paints,assets/169.png
+170,το βιβλίο,the book,assets/170.png
+171,το τετράδιο,the notebook,assets/171.png
+172,το στιλό,the pen,assets/172.png
+173,το μολύβι,the pencil,assets/173.png
+174,το καλάθι,the basket,assets/174.png
+175,το μωβ χρώμα,the color purple,assets/175.png
+176,η Γλώσσα,Language,assets/176.png
+177,η Ιστορία,History,assets/177.png
+178,η Γεωγραφία,Geography,assets/178.png
+179,η Μουσική,Music,assets/179.png
+180,η Ζωγραφική,Art,assets/180.png
+181,η Φυσική,Physics,assets/181.png
+182,η Χημεία,Chemistry,assets/182.png
+183,η Γεωμετρία,Geometry,assets/183.png
+184,η Πληροφορική,Computer Science,assets/184.png
+185,τα Μαθηματικά,Mathematics,assets/185.png
+186,μου αρέσει,I like,assets/186.png
+187,υπάρχει,there is / there are,assets/187.png
+188,το κουκλοθέατρο,the puppet theater,assets/188.png
+189,το παραμύθι,the fairy tale / story,assets/189.png
+190,το αστέρι,the star,assets/190.png
+191,το μωρό,the baby,assets/191.png
+192,το καπέλο,the hat,assets/192.png
+193,το κάστρο,the castle,assets/193.png
+194,το δέντρο,the tree,assets/194.png
+195,το τύμπανο,the drum,assets/195.png
+196,το φόρεμα,the dress,assets/196.png
+197,τα κουζινικά,the kitchen set / kitchen things,assets/197.png
+198,η κούκλα,the doll,assets/198.png
+199,τα παιχνίδια,the toys,assets/199.png
+200,το τρενάκι,the toy train,assets/200.png
+201,το αυτοκινητάκι,the toy car,assets/201.png
+202,το αεροπλανάκι,the toy airplane,assets/202.png
+203,το ποδοσφαιράκι,the foosball game,assets/203.png
+204,το καράβι,the boat / ship,assets/204.png
+205,η μπάλα,the ball,assets/205.png
+206,το επιτραπέζιο παιχνίδι,the board game,assets/206.png
+207,το σκάκι,chess,assets/207.png
+208,τα ζωάκια,the toy animals / little animals,assets/208.png
+209,το αρκουδάκι,the teddy bear,assets/209.png
+210,το δελφίνι,the dolphin,assets/210.png
+211,το σκυλί,the dog,assets/211.png
+212,το λιοντάρι,the lion,assets/212.png
+213,το ποντίκι,the mouse,assets/213.png
+214,το άλογο,the horse,assets/214.png
+215,αγοράζω δώρο,I buy a gift,assets/215.png
+216,δίνω χρήματα,I give money,assets/216.png
+217,θέλω,I want,assets/217.png
+218,11-100,11-100,assets/218.png
+219,η οικογένεια,the family,assets/219.png
+220,οι γονείς,the parents,assets/220.png
+221,ο μπαμπάς,the dad,assets/221.png
+222,η μαμά,the mom,assets/222.png
+223,ο γιος,the son,assets/223.png
+224,η κόρη,the daughter,assets/224.png
+225,ο αδερφός,the brother,assets/225.png
+226,η αδερφή,the sister,assets/226.png
+227,τα αδέρφια,the siblings,assets/227.png
+228,ο παππούς,the grandfather,assets/228.png
+229,η γιαγιά,the grandmother,assets/229.png
+230,τα εγγόνια,the grandchildren,assets/230.png
+231,ο θείος,the uncle,assets/231.png
+232,η θεία,the aunt,assets/232.png
+233,ο ανιψιός,the nephew,assets/233.png
+234,η ανιψιά,the niece,assets/234.png
+235,ο ξάδερφος,the male cousin,assets/235.png
+236,η ξαδέρφη,the female cousin,assets/236.png
+237,το σπίτι,the house,assets/237.png
+238,το λουλούδι,the flower,assets/238.png
+239,η κότα,the hen,assets/239.png
+240,το αβγό,the egg,assets/240.png
+241,το δάσος,the forest,assets/241.png
+242,το πουλί,the bird,assets/242.png
+243,ο λύκος,the wolf,assets/243.png
+244,περπατάω,I walk,assets/244.png
+245,κάνω παρέα,I hang out / keep company,assets/245.png
+246,πηγαίνω στη δουλειά,I go to work,assets/246.png
+247,ψηλός ≠ κοντός,tall ≠ short,assets/247.png
+248,αδύνατος ≠ χοντρός,thin ≠ fat,assets/248.png
+249,μικρός ≠ μεγάλος,small ≠ big,assets/249.png
+250,άσχημος ≠ όμορφος,ugly ≠ beautiful,assets/250.png
+251,γρήγορος ≠ αργός,fast ≠ slow,assets/251.png
+252,δυνατός,strong,assets/252.png
+253,σοφός,wise,assets/253.png
+254,μακριά μαλλιά ≠ κοντά μαλλιά,long hair ≠ short hair,assets/254.png
+255,σγουρά μαλλιά ≠ ίσια μαλλιά,curly hair ≠ straight hair,assets/255.png
+256,ξανθά μαλλιά (ξανθός) ≠ μαύρα μαλλιά (μελαχρινός),blond hair (blond) ≠ black hair (brunette),assets/256.png
+257,καφέ μάτια ≠ γαλανά μάτια,brown eyes ≠ blue eyes,assets/257.png
+258,πράσινος,green,assets/258.png
+259,κόκκινος,red,assets/259.png
+260,κίτρινος,yellow,assets/260.png
+261,άσπρος,white,assets/261.png
+262,μαύρος,black,assets/262.png
+263,γαλανός,light blue,assets/263.png
+264,ο συμμαθητής,the male classmate,assets/264.png
+265,η συμμαθήτρια,the female classmate,assets/265.png
+266,ο διπλανός στο θρανίο,the boy/man sitting next to me at the desk,assets/266.png
+267,η διπλανή στο θρανίο,the girl/woman sitting next to me at the desk,assets/267.png
+268,ωραίος,nice / handsome,assets/268.png
+269,γενναίος,brave,assets/269.png
+270,σπουδαίος,important / great,assets/270.png
+271,πλούσιος ≠ φτωχός,rich ≠ poor,assets/271.png
+272,παλιός ≠ καινούριος/νέος/μοντέρνος,old ≠ new / modern,assets/272.png
+273,νέος ≠ γέρος,young ≠ old,assets/273.png
+274,τεράστιος,huge,assets/274.png
+275,γλυκός,sweet,assets/275.png
+276,κακός,bad,assets/276.png
+277,αστείος,funny,assets/277.png
+278,αθώος,innocent,assets/278.png
+279,η Χιονάτη,Snow White,assets/279.png
+280,η Σταχτοπούτα,Cinderella,assets/280.png
+281,ο ιππότης,the knight,assets/281.png
+282,η πανοπλία,the armor,assets/282.png
+283,ο γίγαντας,the giant,assets/283.png
+284,ο νάνος,the dwarf,assets/284.png
+285,η νεράϊδα,the fairy,assets/285.png
+286,ο πειρατής,the pirate,assets/286.png
+287,ο θησαυρός,the treasure,assets/287.png
+288,ο βασιλιάς,the king,assets/288.png
+289,η βασίλισσα,the queen,assets/289.png
+290,ο μάγος,the wizard,assets/290.png
+291,η μάγισσα,the witch,assets/291.png
+292,το σκουπόξυλο,the broomstick,assets/292.png
+293,το πρωί,the morning,assets/293.png
+294,το μεσημέρι,noon,assets/294.png
+295,το απόγευμα,the afternoon,assets/295.png
+296,το βράδυ ≠ η μέρα,the night/evening ≠ the day,assets/296.png
+297,σήμερα,today,assets/297.png
+298,η εβδομάδα,the week,assets/298.png
+299,η Κυριακή,Sunday,assets/299.png
+300,η Δευτέρα,Monday,assets/300.png
+301,η Τρίτη,Tuesday,assets/301.png
+302,η Τετάρτη,Wednesday,assets/302.png
+303,η Πέμπτη,Thursday,assets/303.png
+304,η Παρασκευή,Friday,assets/304.png
+305,το Σάββατο,Saturday,assets/305.png
+306,Τι ώρα είναι;,What time is it?,assets/306.png
+307,7 ακριβώς! [19:00],7 o'clock exactly [19:00],assets/307.png
+308,7 και τέταρτο! [19:15],quarter past 7 [19:15],assets/308.png
+309,7 και μισή! [19:30],half past 7 [19:30],assets/309.png
+310,8 παρά τέταρτο! [19:45],quarter to 8 [19:45],assets/310.png
+311,8 ακριβώς! [20:00],8 o'clock exactly [20:00],assets/311.png
+312,βλέπω τηλεόραση,I watch television,assets/312.png
+313,βλέπω παιδικά,I watch children's shows,assets/313.png
+314,βλέπω κινούμενα σχέδια,I watch cartoons,assets/314.png
+315,βλέπω ξένες ταινίες,I watch foreign movies,assets/315.png
+316,βλέπω ταινίες στην τηλεόραση,I watch movies on television,assets/316.png
+317,βλέπω ταινίες στον κινηματογράφο,I watch movies at the movie theater,assets/317.png
+318,βλέπω ποδόσφαιρο,I watch soccer,assets/318.png
+319,βλέπω αγώνες μπάσκετ,I watch basketball games,assets/319.png
+320,βλέπω εκπομπή με χορούς,I watch a show with dancing,assets/320.png
+321,βλέπω εκπομπή με τραγούδια,I watch a show with songs,assets/321.png
+322,ο ηθοποιός,the actor,assets/322.png
+323,κερδίζω ≠ χάνω,I win ≠ I lose,assets/323.png
+324,ο αγώνας ξεκινάει,the game starts,assets/324.png
+325,το σπίτι,the house,assets/325.png
+326,το σπίτι στο βουνό,the house in the mountains,assets/326.png
+327,το σπίτι στη θάλασσα,the house by the sea,assets/327.png
+328,η μονοκατοικία,the single-family house,assets/328.png
+329,η πολυκατοικία,the apartment building,assets/329.png
+330,ο κήπος,the garden,assets/330.png
+331,η θέα,the view,assets/331.png
+332,το πάρκιγκ,the parking area,assets/332.png
+333,το ασανσέρ,the elevator,assets/333.png
+334,το μπαλκόνι,the balcony,assets/334.png
+335,ο πάνω όροφος,the upper floor,assets/335.png
+336,ο κάτω όροφος,the lower floor,assets/336.png
+337,ο τελευταίος όροφος,the top floor,assets/337.png
+338,το σαλόνι,the living room,assets/338.png
+339,ο καναπές,the sofa,assets/339.png
+340,η πολυθρόνα,the armchair,assets/340.png
+341,το τραπέζι (το τραπεζάκι),the table (the small table),assets/341.png
+342,το τζάκι,the fireplace,assets/342.png
+343,το μπάνιο,the bathroom,assets/343.png
+344,η μπανιέρα,the bathtub,assets/344.png
+345,η λεκάνη,the toilet bowl,assets/345.png
+346,η βρύση,the faucet,assets/346.png
+347,το πλυντήριο,the washing machine,assets/347.png
+348,το υπνοδωμάτιο,the bedroom,assets/348.png
+349,ο καθρέφτης,the mirror,assets/349.png
+350,η βιβλιοθήκη,the bookcase,assets/350.png
+351,η ντουλάπα,the closet / wardrobe,assets/351.png
+352,το κρεβάτι,the bed,assets/352.png
+353,η κουζίνα,the kitchen,assets/353.png
+354,η ηλεκτρική κουζίνα,the stove / electric range,assets/354.png
+355,το ψυγείο,the refrigerator,assets/355.png
+356,το ντουλάπι,the cabinet,assets/356.png
+357,το δωμάτιο,the room,assets/357.png
+358,τα έπιπλα,the furniture,assets/358.png
+359,βρόμικος ≠ καθαρός,dirty ≠ clean,assets/359.png
+360,καθαρίζω,I clean,assets/360.png
+361,ανοίγω,I open,assets/361.png
+362,μέσα ≠ έξω,inside ≠ outside,assets/362.png
+363,το ρολόι,the clock,assets/363.png
+364,το ράφι,the shelf,assets/364.png
+365,το μονό κρεβάτι ≠ διπλό κρεβάτι,the single bed ≠ the double bed,assets/365.png
+366,το μαξιλάρι,the pillow,assets/366.png
+367,το γραφείο,the desk / office,assets/367.png
+368,το συρτάρι,the drawer,assets/368.png
+369,το χαρτί,the paper,assets/369.png
+370,ο ηλεκτρονικός υπολογιστής,the computer,assets/370.png
+371,το πάτωμα,the floor,assets/371.png
+372,το χαλί,the rug / carpet,assets/372.png
+373,το κουτί,the box,assets/373.png
+374,το παράθυρο,the window,assets/374.png
+375,φωτεινός ≠ σκούρος,bright/light ≠ dark,assets/375.png
+376,αλλάζω,I change,assets/376.png
+377,βάφω,I paint,assets/377.png
+378,βάζω ≠ βγάζω,I put in/on ≠ I take out/off,assets/378.png
+379,πάνω ≠ κάτω,up / above ≠ down / below,assets/379.png
+380,το χωριό,the village,assets/380.png
+381,ο γείτονας,the neighbor,assets/381.png
+382,η γειτονιά,the neighborhood,assets/382.png
+383,η εκκλησία,the church,assets/383.png
+384,η πλατεία,the town square,assets/384.png
+385,το καφενείο,the café / coffeehouse,assets/385.png
+386,η ησυχία ≠ η φασαρία,quiet ≠ noise,assets/386.png
+387,ο ήσυχος δρόμος,the quiet street,assets/387.png
+388,η ήσυχη περιοχή,the quiet area,assets/388.png
+389,η πόλη,the city,assets/389.png
+390,η τράπεζα (τα χρήματα),the bank (money),assets/390.png
+391,το νοσοκομείο (ο γιατρός),the hospital (doctor),assets/391.png
+392,το ταχυδρομείο (στέλνω γράμμα),the post office (I send a letter),assets/392.png
+393,το πάρκο (η παιδική χαρά),the park (playground),assets/393.png
+394,το μουσείο,the museum,assets/394.png
+395,τα φανάρια (το αυτοκίνητο),the traffic lights (car),assets/395.png
+396,τα μαγαζιά,the stores,assets/396.png
+397,ποτίζω τα λουλούδια,I water the flowers,assets/397.png
+398,περνάω τον δρόμο,I cross the street,assets/398.png
+399,κοντά ≠ μακριά,near ≠ far,assets/399.png
+400,μπροστά ≠ πίσω,in front ≠ behind,assets/400.png
+401,η κούνια (κάνω κούνια),the swing (I swing),assets/401.png
+402,η τραμπάλα (κάνω τραμπάλα),the seesaw (I ride the seesaw),assets/402.png
+403,η τσουλήθρα (κάνω τσουλήθρα),the slide (I go down the slide),assets/403.png
+404,το ποδήλατο (κάνω ποδήλατο),the bicycle (I ride a bicycle),assets/404.png
+405,το πατίνι (κάνω πατίνι),the scooter (I ride a scooter),assets/405.png
+406,το κουτσό (παίζω κουτσό),hopscotch (I play hopscotch),assets/406.png
+407,το κρυφτό (παίζω κρυφτό),hide-and-seek (I play hide-and-seek),assets/407.png
+408,το κυνηγητό (παίζω κυνηγητό),tag (I play tag),assets/408.png
+409,τρέχω,I run,assets/409.png
+410,κουνάω,I swing / move,assets/410.png
+411,φεύγω,I leave,assets/411.png
+412,ανεβαίνω ≠ κατεβαίνω,I go up ≠ I go down,assets/412.png
+413,περνάω ωραία = περνάω καλά,I have a good time,assets/413.png
+414,Ευχαριστώ πολύ!,Thank you very much!,assets/414.png
+415,Με γεια σου!,Enjoy it! / Wear it in good health!,assets/415.png
+416,ψηλά ≠ χαμηλά,high ≠ low,assets/416.png
+417,γρήγορα ≠ αργά,quickly ≠ slowly,assets/417.png
+418,εύκολα ≠ δύσκολα,easily ≠ with difficulty,assets/418.png
+419,το τσίρκο,the circus,assets/419.png
+420,ο κλόουν,the clown,assets/420.png
+421,ο ακροβάτης,the acrobat,assets/421.png
+422,ο χορευτής,the male dancer,assets/422.png
+423,η χορεύτρια,the female dancer,assets/423.png
+424,το μπαλόνι,the balloon,assets/424.png
+425,το μαντίλι,the scarf / handkerchief,assets/425.png
+426,το κουνέλι,the rabbit,assets/426.png
+427,η παράσταση (η παράσταση αρχίζει),the performance (the performance starts),assets/427.png
+428,ο θεατής,the spectator,assets/428.png
+429,η θέση,the seat / position,assets/429.png
+430,"το εισιτήριο (παιδικό, δωρεάν)","the ticket (child, free)",assets/430.png
+431,χαρούμενος ≠ λυπημένος,happy ≠ sad,assets/431.png
+432,φτηνός ≠ ακριβός,cheap ≠ expensive,assets/432.png
+433,πιο (πολύ),more,assets/433.png
+434,κάνω αστεία,I make jokes,assets/434.png
+435,κάνω μαγικά κόλπα,I do magic tricks,assets/435.png
+436,Ορίστε!,Here you are!,assets/436.png
+437,Καλή διασκέδαση!,Have fun!,assets/437.png
+438,διαβάζω βιβλία,I read books,assets/438.png
+439,διαβάζω παραμύθια,I read fairy tales,assets/439.png
+440,λέω ιστορίες,I tell stories,assets/440.png
+441,παίζω κιθάρα,I play guitar,assets/441.png
+442,παίζω στην αυλή,I play in the yard,assets/442.png
+443,πηγαίνω στο γήπεδο,I go to the stadium,assets/443.png
+444,πηγαίνω στο θέατρο,I go to the theater,assets/444.png
+445,πηγαίνω στο σινεμά,I go to the cinema,assets/445.png
+446,τρώω στο σπίτι,I eat at home,assets/446.png
+447,τρώω στο εστιατόριο,I eat at the restaurant,assets/447.png
+448,τρώω σουβλάκι,I eat souvlaki,assets/448.png
+449,πίνω χυμό,I drink juice,assets/449.png
+450,ακούω μουσική,I listen to music,assets/450.png
+451,χορεύω,I dance,assets/451.png
+452,οδηγώ το αυτοκίνητο,I drive the car,assets/452.png
+453,καλώ τους φίλους μου,I call my friends,assets/453.png
+454,πηγαίνω στον παππού και στη γιαγιά,I go to Grandpa and Grandma,assets/454.png
+455,έρχεται ο παππούς και η γιαγιά,Grandpa and Grandma come,assets/455.png
+456,κάθομαι στο παγκάκι,I sit on the bench,assets/456.png
+457,ξυπνάω νωρίς,I wake up early,assets/457.png
+458,κοιμάμαι αργά,I go to sleep late,assets/458.png
+459,το άθλημα,the sport,assets/459.png
+460,πάω σε παιδότοπο,I go to the playground,assets/460.png
+461,πάω (κάνω) βόλτα,I go for a walk,assets/461.png
+462,ακούω ραδιόφωνο,I listen to the radio,assets/462.png
+463,βγαίνω έξω,I go out,assets/463.png
+464,διαλέγω ταινίες,I choose movies,assets/464.png
+465,πίνω αναψυκτικό,I drink soda,assets/465.png
+466,μπαίνω ≠ βγαίνω,I go in ≠ I go out,assets/466.png
+467,πολύ ≠ λίγο,a lot ≠ a little,assets/467.png
+468,πριν ≠ μετά,before ≠ after,assets/468.png
+469,καλά ≠ άσχημα,well ≠ badly,assets/469.png
+470,κάνω δουλειές στο σπίτι,I do chores at home,assets/470.png
+471,ετοιμάζω (γράφω) τη λίστα με τα ψώνια,I prepare (write) the shopping list,assets/471.png
+472,ψωνίζω = αγοράζω ≠ πουλάω,I shop = I buy ≠ I sell,assets/472.png
+473,πληρώνω,I pay,assets/473.png
+474,ανοίγω ≠ κλείνω,I open ≠ I close,assets/474.png
+475,σβήνω τα κεράκια,I blow out the candles,assets/475.png
+476,η πίτα,the pie,assets/476.png
+477,η πίτσα,the pizza,assets/477.png
+478,το σάντουιτς (με ψωμί),the sandwich (with bread),assets/478.png
+479,το χάμπουργκερ,the hamburger,assets/479.png
+480,τα πατατάκια,the chips,assets/480.png
+481,τα γαριδάκια,the cheese puffs,assets/481.png
+482,τα ποπ κορν,the popcorn,assets/482.png
+483,τα τυροπιτάκια,the small cheese pies,assets/483.png
+484,η πορτοκαλάδα,the orangeade,assets/484.png
+485,η λεμονάδα,the lemonade,assets/485.png
+486,το μαγαζί,the store,assets/486.png
+487,το δώρο,the gift,assets/487.png
+488,το ταμείο,the checkout / cash register,assets/488.png
+489,τα λεφτά = τα χρήματα,the money,assets/489.png
+490,τα ρέστα,the change,assets/490.png
+491,χωρίς,without,assets/491.png
+492,αύριο,tomorrow,assets/492.png
+493,πεινώ (πεινάω),I am hungry,assets/493.png
+494,διψώ (διψάω),I am thirsty,assets/494.png
+495,κρεμώ (κρεμάω) τη γιρλάντα = βάζω τη γιρλάντα,I hang the garland = I put up the garland,assets/495.png
+496,φορώ (φοράω),I wear,assets/496.png
+497,πονώ (πονάω),I hurt / I am in pain,assets/497.png
+498,βοηθώ (βοηθάω),I help,assets/498.png
+499,ρωτώ (ρωτάω),I ask,assets/499.png
+500,αργώ,I am late,assets/500.png
+501,τηλεφωνώ = παίρνω τηλέφωνο,I call on the phone,assets/501.png
+502,φουσκώνω τα μπαλόνια,I blow up the balloons,assets/502.png
+503,η φούστα,the skirt,assets/503.png
+504,η μπλούζα,the blouse / shirt,assets/504.png
+505,το φόρεμα,the dress,assets/505.png
+506,το πουκάμισο,the shirt,assets/506.png
+507,το παντελόνι,the pants,assets/507.png
+508,το τζιν,the jeans,assets/508.png
+509,τα παπούτσια,the shoes,assets/509.png
+510,η πρόσκληση,the invitation,assets/510.png
+511,η ημερομηνία,the date,assets/511.png
+512,τα γενέθλια = η γιορτή,the birthday = the celebration,assets/512.png
+513,πάντα,always,assets/513.png
+514,φέτος,this year,assets/514.png
+515,πηγαίνω (πάω) στην αγορά,I go to the market,assets/515.png
+516,ψάχνω δώρο,I look for a gift,assets/516.png
+517,βρίσκω ≠ χάνω,I find ≠ I lose,assets/517.png
+518,παίρνω ≠ δίνω,I take/get ≠ I give,assets/518.png
+519,φεύγω ≠ έρχομαι,I leave ≠ I come,assets/519.png
+520,η τιμή,the price,assets/520.png
+521,το ημερολόγιο,the calendar / planner,assets/521.png
+522,το βιβλιοπωλείο,the bookstore,assets/522.png
+523,πάω (πηγαίνω) με τα πόδια = περπατάω,I go on foot = I walk,assets/523.png
+524,συναντάω στον δρόμο,I meet someone on the street,assets/524.png
+525,ταξιδεύω,I travel,assets/525.png
+526,η βάρκα (η θάλασσα),the boat (the sea),assets/526.png
+527,το πλοίο,the ship,assets/527.png
+528,ο καπετάνιος,the captain,assets/528.png
+529,το λιμάνι,the port,assets/529.png
+530,το ελικόπτερο (ο αέρας),the helicopter (the air),assets/530.png
+531,το αεροπλάνο,the airplane,assets/531.png
+532,ο πιλότος,the pilot,assets/532.png
+533,ο/η αεροσυνοδός,the flight attendant,assets/533.png
+534,το αεροδρόμιο,the airport,assets/534.png
+535,η μηχανή (η στεριά),the motorcycle / motorbike (land),assets/535.png
+536,το μηχανάκι,the scooter / moped,assets/536.png
+537,το ταξί,the taxi,assets/537.png
+538,το φορτηγό,the truck,assets/538.png
+539,το λεωφορείο,the bus,assets/539.png
+540,ο οδηγός,the driver,assets/540.png
+541,η στάση,the stop,assets/541.png
+542,το μετρό,the metro / subway,assets/542.png
+543,το τρένο,the train,assets/543.png
+544,ο σταθμός,the station,assets/544.png
+545,περιμένω στη στάση,I wait at the stop,assets/545.png
+546,παίρνω το λεωφορείο,I take the bus,assets/546.png
+547,κατεβαίνω στην επόμενη στάση,I get off at the next stop,assets/547.png
+548,φτάνω,I arrive,assets/548.png
+549,ο αρχαιολογικός χώρος (η Ακρόπολη),the archaeological site (the Acropolis),assets/549.png
+550,η εκδρομή,the excursion / trip,assets/550.png
+551,η πρωτεύουσα (η Αθήνα),the capital (Athens),assets/551.png
+552,ο ύπνος,sleep,assets/552.png
+553,η ξεκούραση,rest,assets/553.png
+554,η διασκέδαση (διασκεδάζω),fun / entertainment,assets/554.png
+555,οι πληροφορίες,the information,assets/555.png
+556,η βαλίτσα,the suitcase,assets/556.png
+557,η φωτογραφική μηχανή,the camera,assets/557.png
+558,η αγορά,the market,assets/558.png
+559,η ταβέρνα (το εστιατόριο),the tavern (restaurant),assets/559.png
+560,η παραλία,the beach,assets/560.png
+561,το ξενοδοχείο,the hotel,assets/561.png
+562,το μεσημεριανό (φαγητό),lunch,assets/562.png
+563,το βραδινό (φαγητό),dinner,assets/563.png
+564,το λούνα παρκ,the amusement park,assets/564.png
+565,έτοιμος,ready,assets/565.png
+566,επιστρέφω (η επιστροφή) = γυρίζω,I return = I go back,assets/566.png
+567,κάνω στάση,I make a stop,assets/567.png
+568,βγάζω φωτογραφίες,I take photos,assets/568.png
+569,κρατώ (κρατώ τη φωτογραφική μηχανική),I hold (the camera),assets/569.png
+570,η εποχή,the season,assets/570.png
+571,ο χειμώνας,the winter,assets/571.png
+572,κάνω σκι,I ski,assets/572.png
+573,παίζω με το χιόνι,I play with the snow,assets/573.png
+574,κάνει κρύο,it is cold,assets/574.png
+575,η άνοιξη,the spring,assets/575.png
+576,ανθίζουν τα λουλούδια,the flowers bloom,assets/576.png
+577,το καλοκαίρι,the summer,assets/577.png
+578,κολυμπάω,I swim,assets/578.png
+579,κάνω μπάνιο στη θάλασσα,I swim in the sea,assets/579.png
+580,το φθινόπωρο,the autumn / fall,assets/580.png
+581,ανοίγουν τα σχολεία,the schools open,assets/581.png
+582,ο μήνας – οι μήνες,the month – the months,assets/582.png
+583,ο Ιανουάριος,January,assets/583.png
+584,ο Φεβρουάριος,February,assets/584.png
+585,ο Μάρτιος,March,assets/585.png
+586,ο Απρίλιος,April,assets/586.png
+587,ο Μάιος,May,assets/587.png
+588,ο Ιούνιος,June,assets/588.png
+589,ο Ιούλιος,July,assets/589.png
+590,ο Αύγουστος,August,assets/590.png
+591,ο Σεπτέμβριος,September,assets/591.png
+592,ο Οκτώβριος,October,assets/592.png
+593,ο Νοέμβριος,November,assets/593.png
+594,ο Δεκέμβριος,December,assets/594.png
+595,οι διακοπές,the holidays / vacation,assets/595.png
+596,το νησί,the island,assets/596.png
+597,o καιρός,the weather,assets/597.png
+598,χιονίζει,it is snowing,assets/598.png
+599,έχει (κάνει) κρύο,it is cold,assets/599.png
+600,έχει (κάνει) ζέστη,it is hot,assets/600.png
+601,έχει ήλιο,it is sunny,assets/601.png
+602,βρέχει,it is raining,assets/602.png
+603,φυσάει = έχει αέρα,it is windy = there is wind,assets/603.png
+604,τα ρούχα,the clothes,assets/604.png
+605,ο σκούφος,the beanie / winter hat,assets/605.png
+606,το κασκόλ,the scarf,assets/606.png
+607,τα γάντια,the gloves,assets/607.png
+608,η κοντομάνικη μπλούζα,the short-sleeved shirt,assets/608.png
+609,οι σαγιονάρες = οι παντόφλες,the flip-flops = the slippers,assets/609.png
+610,το μαγιό,the swimsuit,assets/610.png
+611,τα γυαλιά,the glasses,assets/611.png
+612,η ομπρέλα,the umbrella,assets/612.png
+613,οι μπότες,the boots,assets/613.png
+614,το μπουφάν,the jacket,assets/614.png
+615,πίνω τσάι,I drink tea,assets/615.png
+616,πίνω ζεστή σοκολάτα,I drink hot chocolate,assets/616.png
+617,παίζω χιονοπόλεμο,I have a snowball fight,assets/617.png
+618,τρώω παγωτό,I eat ice cream,assets/618.png
+619,ξεχνώ,I forget,assets/619.png
+620,ο γιατρός,the doctor,assets/620.png
+621,η συμβουλή,the advice,assets/621.png
+622,το φάρμακο (παίρνω φάρμακο),the medicine (I take medicine),assets/622.png
+623,πίνω ζεστό τσάι,I drink hot tea,assets/623.png
+624,τρώω σούπα,I eat soup,assets/624.png
+625,το σώμα,the body,assets/625.png
+626,το κεφάλι,the head,assets/626.png
+627,το πρόσωπο,the face,assets/627.png
+628,το στόμα,the mouth,assets/628.png
+629,το δόντι,the tooth,assets/629.png
+630,το αυτί (αφτί),the ear,assets/630.png
+631,το μάτι,the eye,assets/631.png
+632,η μύτη,the nose,assets/632.png
+633,το χέρι,the hand,assets/633.png
+634,το πόδι,the foot / leg,assets/634.png
+635,το δάχτυλο,the finger / toe,assets/635.png
+636,ο λαιμός,the neck,assets/636.png
+637,η κοιλιά,the belly / stomach,assets/637.png
+638,άρρωστος,sick / ill,assets/638.png
+639,έχω πυρετό,I have a fever,assets/639.png
+640,έχω βήχα,I have a cough,assets/640.png
+641,πονάει η κοιλιά μου,my stomach hurts,assets/641.png
+642,μυρίζω,I smell,assets/642.png
+643,πιάνω,I touch / grab,assets/643.png
+644,ξέρω,I know,assets/644.png
+645,φτιάχνω,I make,assets/645.png
+646,λείπει κάποιος (κάτι),someone / something is missing,assets/646.png
+647,πονάει κάτι,something hurts,assets/647.png
+648,μαγειρεύω,I cook,assets/648.png
+649,η κατσαρόλα,the pot,assets/649.png
+650,σκουπίζω,I sweep,assets/650.png
+651,η σκούπα,the broom,assets/651.png
+652,σφουγγαρίζω,I mop,assets/652.png
+653,ο κουβάς,the bucket,assets/653.png
+654,η σφουγγαρίστρα,the mop,assets/654.png
+655,πλένω τα πιάτα,I wash the dishes,assets/655.png
+656,πλένω τα ρούχα = βάζω πλυντήριο,I wash the clothes = I run the washing machine,assets/656.png
+657,σιδερώνω,I iron,assets/657.png
+658,το σίδερο,the iron,assets/658.png
+659,ξεσκονίζω,I dust,assets/659.png
+660,καθαρίζω την αυλή,I clean the yard,assets/660.png
+661,ταΐζω τα ζώα = βάζω φαγητό στα ζώα,I feed the animals = I give food to the animals,assets/661.png
+662,βγάζω βόλτα τον σκύλο,I take the dog for a walk,assets/662.png
+663,χτενίζω τη γάτα,I comb the cat,assets/663.png
+664,η ρυθμική γυμναστική,rhythmic gymnastics,assets/664.png
+665,το γυμναστήριο,the gym,assets/665.png
+666,το κορμάκι,the leotard,assets/666.png
+667,το καλσόν,the tights,assets/667.png
+668,η κορδέλα,the ribbon,assets/668.png
+669,τα στεφάνια,the hoops,assets/669.png
+670,οι κορίνες,the clubs (gymnastics),assets/670.png
+671,κάνω γυμναστική,I exercise / do gymnastics,assets/671.png
+672,πετάω τις κορίνες,I throw the clubs,assets/672.png
+673,πηδάω σκοινάκι,I jump rope,assets/673.png
+674,πέφτω κάτω,I fall down,assets/674.png
+675,το μπαλέτο,ballet,assets/675.png
+676,η μπαλαρίνα,the ballerina,assets/676.png
+677,το ποδόσφαιρο = η μπάλα,soccer = ball,assets/677.png
+678,το γήπεδο,the field / stadium,assets/678.png
+679,τα αθλητικά παπούτσια,the athletic shoes,assets/679.png
+680,οι κάλτσες,the socks,assets/680.png
+681,ο αγώνας,the game / match,assets/681.png
+682,ο τελικός,the final,assets/682.png
+683,η ομάδα,the team,assets/683.png
+684,ο παίκτης = ο ποδοσφαιριστής,the player = the soccer player,assets/684.png
+685,ο τερματοφύλακας = είμαι στο τέρμα,the goalkeeper = I am in goal,assets/685.png
+686,ο διαιτητής,the referee,assets/686.png
+687,η κίτρινη κάρτα,the yellow card,assets/687.png
+688,η κόκκινη κάρτα,the red card,assets/688.png
+689,σφυρίζω με τη σφυρίχτρα,I whistle with the whistle,assets/689.png
+690,κλωτσάω τη μπάλα,I kick the ball,assets/690.png
+691,είμαι στον πάγκο,I am on the bench,assets/691.png
+692,βάζω γκολ,I score a goal,assets/692.png
+693,έχω αγωνία,I am anxious / nervous,assets/693.png
+694,μόνος,alone,assets/694.png
+695,συχνά,often,assets/695.png
+696,η σχολή χορού,the dance school,assets/696.png
+697,ο μοντέρνος χορός,modern dance,assets/697.png
+698,ο παραδοσιακός χορός,traditional dance,assets/698.png
+699,το εργαστήρι ζωγραφικής,the art workshop,assets/699.png
+700,οι νερομπογιές,watercolors,assets/700.png
+701,το πινέλο,the paintbrush,assets/701.png
+702,η σχολή μουσικής = το ωδείο,the music school = the conservatory,assets/702.png
+703,η κλασική μουσική,classical music,assets/703.png
+704,τα μουσικά όργανα,musical instruments,assets/704.png
+705,το πιάνο,the piano,assets/705.png
+706,το βιολί,the violin,assets/706.png
+707,η λαϊκή μουσική,Greek folk/popular music,assets/707.png
+708,το μπουζούκι,the bouzouki,assets/708.png
+709,ο μπαγλαμάς,the baglamas,assets/709.png
+710,η κωμωδία,the comedy,assets/710.png
+711,ο/η γραμματέας,the secretary,assets/711.png
+712,οι εγγραφές,the registrations / enrollment,assets/712.png
+713,το τμήμα = η τάξη,the section = the class,assets/713.png
+714,ίδιος,same,assets/714.png
+715,μεθαύριο,the day after tomorrow,assets/715.png
+716,χθες,yesterday,assets/716.png
+717,προχθές,the day before yesterday,assets/717.png
+718,πέρυσι,last year,assets/718.png
+719,η φύση,nature,assets/719.png
+720,ο ποταμός = το ποτάμι,the river,assets/720.png
+721,η λίμνη,the lake,assets/721.png
+722,το βουνό,the mountain,assets/722.png
+723,η φάρμα = το αγρόκτημα,the farm,assets/723.png
+724,ο γάιδαρος,the donkey,assets/724.png
+725,ο κόκορας,the rooster,assets/725.png
+726,η κότα,the hen,assets/726.png
+727,η αγελάδα,the cow,assets/727.png
+728,η πάπια,the duck,assets/728.png
+729,η γάτα-ο γάτος,the cat (female/male),assets/729.png
+730,το ποντίκι,the mouse,assets/730.png
+731,το γουρούνι,the pig,assets/731.png
+732,το πρόβατο,the sheep,assets/732.png
+733,το κατσίκι,the goat,assets/733.png
+734,το ζωολογικό πάρκο,the zoo,assets/734.png
+735,τα ζώα του δάσους,the forest animals,assets/735.png
+736,ο παπαγάλος,the parrot,assets/736.png
+737,ο κροκόδειλος,the crocodile,assets/737.png
+738,ο ελέφαντας,the elephant,assets/738.png
+739,ο τίγρης,the tiger,assets/739.png
+740,ο λαγός,the hare,assets/740.png
+741,η χελώνα,the turtle,assets/741.png
+742,η μαϊμού,the monkey,assets/742.png
+743,η αλεπού,the fox,assets/743.png
+744,η κουκουβάγια,the owl,assets/744.png
+745,η αρκούδα,the bear,assets/745.png
+746,η καμηλοπάρδαλη,the giraffe,assets/746.png
+747,το λιοντάρι,the lion,assets/747.png
+748,η ιππασία = κάνω βόλτα με το άλογο,horseback riding = I ride the horse,assets/748.png
+749,η διαδρομή,the route,assets/749.png
+750,το μέρος (τα μέρη),the place (places),assets/750.png
+751,το πράγμα (τα πράγματα),the thing (things),assets/751.png
+752,το χώμα,the ground / soil,assets/752.png
+753,στρώνω τα πράγματα στο χώμα,I spread/lay the things on the ground,assets/753.png
+754,αρκετός,enough / sufficient,assets/754.png
+755,τέλειος,perfect,assets/755.png
+756,τα λαχανικά,the vegetables,assets/756.png
+757,ο αρακάς,the peas,assets/757.png
+758,η ντομάτα,the tomato,assets/758.png
+759,η πατάτα,the potato,assets/759.png
+760,η πιπεριά,the pepper,assets/760.png
+761,το αγγούρι,the cucumber,assets/761.png
+762,το καρότο,the carrot,assets/762.png
+763,το κρεμμύδι,the onion,assets/763.png
+764,το λάχανο,the cabbage,assets/764.png
+765,τα φασολάκια,the green beans,assets/765.png
+766,τα φρούτα,the fruit,assets/766.png
+767,η μπανάνα,the banana,assets/767.png
+768,η φράουλα,the strawberry,assets/768.png
+769,το αχλάδι,the pear,assets/769.png
+770,το καρπούζι,the watermelon,assets/770.png
+771,το λεμόνι,the lemon,assets/771.png
+772,το μήλο,the apple,assets/772.png
+773,το πεπόνι,the melon / cantaloupe,assets/773.png
+774,το πορτοκάλι,the orange,assets/774.png
+775,το σταφύλι,the grape,assets/775.png
+776,η λαϊκή αγορά ≠ το μανάβικο (ο μανάβης),the open-air market ≠ the greengrocer's (greengrocer),assets/776.png
+777,η χωριάτικη σαλάτα,the Greek village salad,assets/777.png
+778,τα υλικά,the ingredients,assets/778.png
+779,νόστιμος,tasty / delicious,assets/779.png
+780,το κρεοπωλείο,the butcher shop,assets/780.png
+781,ο κιμάς,the ground meat,assets/781.png
+782,η μπριζόλα,the steak,assets/782.png
+783,το κρέας,the meat,assets/783.png
+784,το κοτόπουλο,the chicken,assets/784.png
+785,το μπιφτέκι,the burger patty,assets/785.png
+786,το σουβλάκι,the souvlaki,assets/786.png
+787,ο φούρνος,the bakery / oven,assets/787.png
+788,το κουλούρι,the koulouri (sesame bread ring),assets/788.png
+789,το κρουασάν,the croissant,assets/789.png
+790,το ψωμί (μια φέτα ψωμί),the bread (a slice of bread),assets/790.png
+791,το σούπερ μάρκετ,the supermarket,assets/791.png
+792,η ελιά,the olive,assets/792.png
+793,η ζάχαρη,the sugar,assets/793.png
+794,το αλάτι,the salt,assets/794.png
+795,το αλεύρι,the flour,assets/795.png
+796,το βούτυρο,the butter,assets/796.png
+797,το γάλα,the milk,assets/797.png
+798,το γιαούρτι,the yogurt,assets/798.png
+799,το λάδι,the oil,assets/799.png
+800,το μέλι,the honey,assets/800.png
+801,το πιπέρι,the pepper,assets/801.png
+802,το ρύζι,the rice,assets/802.png
+803,το τυρί,the cheese,assets/803.png
+804,το ψάρι,the fish,assets/804.png
+805,τα μακαρόνια,the pasta / macaroni,assets/805.png
+806,Καλή όρεξη!,Enjoy your meal!,assets/806.png
+807,παραγγέλνω φαγητό,I order food,assets/807.png
+808,η κατασκήνωση = το κάμπιγκ,the camp / camping,assets/808.png
+809,η κουβέρτα,the blanket,assets/809.png
+810,η σκηνή,the tent,assets/810.png
+811,το μαξιλάρι,the pillow,assets/811.png
+812,το σεντόνι,the bedsheet,assets/812.png
+813,το σλίπιγκ μπαγκ,the sleeping bag,assets/813.png
+814,το στρώμα,the mattress,assets/814.png
+815,ο φακός,the flashlight,assets/815.png
+816,η πετσέτα,the towel,assets/816.png
+817,το σαμπουάν,the shampoo,assets/817.png
+818,το σαπούνι,the soap,assets/818.png
+819,το κουτάλι,the spoon,assets/819.png
+820,το μαχαίρι,the knife,assets/820.png
+821,το (πλαστικό) πιάτο,the (plastic) plate,assets/821.png
+822,το πιρούνι,the fork,assets/822.png
+823,το (πλαστικό) ποτήρι,the (plastic) cup,assets/823.png
+824,το τραπεζομάντηλο,the tablecloth,assets/824.png
+825,μαλακός,soft,assets/825.png
+826,ανάβω φωτιά,I light a fire,assets/826.png
+827,κόβω,I cut,assets/827.png
+828,ψήνω στη φωτιά,I cook/grill over the fire,assets/828.png
+829,το κυλικείο ≈ η καφετέρια,the school canteen ≈ the cafeteria,assets/829.png
+830,η καραμέλα,the candy,assets/830.png
+831,η μαστίχα,mastic gum / chewing gum,assets/831.png
+832,η σοκολάτα,the chocolate,assets/832.png
+833,η τυρόπιτα,the cheese pie,assets/833.png
+834,το μπισκότο,the cookie / biscuit,assets/834.png
+835,το τοστ,the toast / toasted sandwich,assets/835.png
+836,το περιοδικό ≠ η εφημερίδα,the magazine ≠ the newspaper,assets/836.png
+837,η συνταγή,the recipe,assets/837.png
+838,το περίπτερο,the kiosk / newsstand,assets/838.png
+839,υγιεινός,healthy,assets/839.png
+840,μασάω μαστίχα,I chew gum,assets/840.png
